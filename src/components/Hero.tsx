@@ -327,8 +327,8 @@ const Hero: React.FC = () => {
               </button>
               
               <a 
-                href="/Ved_Sharma.pdf" 
-                download="Ved_Sharma_Resume.pdf"
+                href="/Gaurav_Sharma.pdf" 
+                download="Gaurav_Sharma_Resume.pdf"
                 className="inline-block px-6 py-3 font-semibold text-center text-white transition-all duration-300 border rounded-lg lg:px-8 lg:py-4 border-white/20 md:hover:border-white/40 md:hover:scale-105"
               >
                 Download CV
@@ -354,7 +354,7 @@ const Hero: React.FC = () => {
                 <div className="absolute inset-0 rounded-full bg-gradient-to-br from-neon-blue via-neon-cyan to-neon-violet blur-2xl opacity-30 animate-pulse"></div>
                 <div className="absolute rounded-full inset-2 bg-gradient-to-br from-neon-blue/20 to-neon-cyan/20"></div>
                 <img
-                  src="/profile-pic.jpg"
+                  src="/gaurav-pic.jpeg"
                   alt="Gaurav Sharma"
                   className="relative object-cover w-full h-full border-4 rounded-full shadow-2xl border-neon-cyan/50 shadow-neon-cyan/20"
                 />
