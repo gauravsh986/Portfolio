@@ -3,7 +3,7 @@
 **Location:** Mathura, Uttar Pradesh, India  
 **Email:** [gauravsh986@gmail.com](mailto:gauravsh986@gmail.com)  
 **Phone:** +91 95288 46056  
-**Portfolio:** [gauravsharma.me](https://gauravsharma.me)  
+**Portfolio:** [gauravsharma](https://gauravsh986.vercel.app/)  
 
 ---
 
